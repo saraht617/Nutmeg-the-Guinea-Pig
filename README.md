@@ -1,2 +1,2 @@
-# Nutmeg-the-Guinea-Pig
+# Nutmegthegp
 Hw Assignment #1 
